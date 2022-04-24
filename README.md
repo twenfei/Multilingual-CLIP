@@ -1,3 +1,6 @@
+## Add code for preprocessing the WIT data and zero-shot experiments
+Go to the .ipynb notebook, the updated code includes pre-processing the WIT data and zero-shot experiments setup with WIT on Multilingual CLIP. You can upload the repo and run it on google colab, click "Run after" from the <b>Setup Colab</b> section.
+
 <br />
 <p align="center">
   <h1 align="center">Multilingual-CLIP</h1>
